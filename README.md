@@ -13,7 +13,7 @@ Esta impresora estará pensada para imprimir diferentes tipos de materiales y da
 ## Elementos que se tienen en cuenta
 
 Estructura:
-Chasis en aluminio de 5mm para el eje X e Y. Y para el eje Z aluminio de 3mm (Panelado en aluminio)
+Chasis en aluminio de 5mm para el eje X e Y. Y para el eje Z aluminio de 3mm (Panelado en aluminio) (El cual no se va encontrar asta resolver todos los errores)
 
 __Dimensiones de impresión útiles:__
 
@@ -85,6 +85,29 @@ Realizar ina impresora 3D que cumpla con todos los criterios siguientes:
         - Extrusor Hotend Bmg o Bracket Hotend
         - Correa 4m
     -
+    
+***
+
+## Materiales
+### Estructura
+    * Perfiles 2040
+        - 4 de 510mm
+        - 2 de 515mm
+    * Perfiles 2020
+        - 4 de 500mm
+        - 2 de 560mm
+        - 1 de 570mm
+### Extrusor
+    - Extrusor BMG y V6
+### Placa madre
+    - BTT Octopus Pro V1.0
+### Pantalla
+    - BTT TFT "Tft35 V3.0"
+### Filamento   (Calculo mios con pruevas incluidas)
+    - 3Kg de PETG 
+    - 1Kg de ABS
+
+***
 
 ## Caracteristicas de las impresoras 3D
 
