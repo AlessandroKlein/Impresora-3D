@@ -85,7 +85,5 @@ Realizar ina impresora 3D que cumpla con todos los criterios siguientes:
 
 ## Caracteristicas de las impresoras 3D
 
-<div align="left"><img src="/Imagenes/IMPRESORAS_3D.png"></div>
-
 <div align="middle"><img src="/Imagenes/IMPRESORAS_3D.png"></div>
 
