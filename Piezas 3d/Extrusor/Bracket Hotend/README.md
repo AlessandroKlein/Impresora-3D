@@ -1,1 +1,1 @@
-[![Bracket_Hotend.png](https://gitlab.com/AlessandroKlein/impresora-3d-cube/-/raw/main/Imagenes/Extrusor/Bracket_Hotend.png)]
+<div align="middle"><img src="/Imagenes/Extrusor/Bracket_Hotend.png"></div>
