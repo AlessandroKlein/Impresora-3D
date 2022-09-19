@@ -14,7 +14,7 @@
 
 ## Principales características
 
-<div align="middle"><img src="/Placa madre/Imagenes/4.png"></div>
+<div align="middle"><img src="/Placa madre/Imagenes/4.jpg"></div>
 
 ### Las características más importantes que podríamos destacar sobre las nuevas BTT Octopus Pro son las siguientes:
 
