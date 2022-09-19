@@ -1,5 +1,8 @@
+## [Ver presentacion del proyecto](https://ioticos.cf/)
 
-## [Ver presentacion del proyecto](https://impresora3d-akv.my.canva.site/)
+
+//## [Ver presentacion del proyecto](https://impresora3d-akv.my.canva.site/)
+
 
 # Impresora 3D Cube
 
