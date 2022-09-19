@@ -87,5 +87,5 @@ Realizar ina impresora 3D que cumpla con todos los criterios siguientes:
 
 <div align="left"><img src="/Imagenes/IMPRESORAS_3D.png"></div>
 
-![IMPRESORAS_3D.png]([https://gitlab.com/AlessandroKlein/impresora-3d-cube/-/raw/main/Imagenes/IMPRESORAS_3D.png])
+![IMPRESORAS_3D.png](https://gitlab.com/AlessandroKlein/impresora-3d-cube/-/raw/main/Imagenes/IMPRESORAS_3D.png)
 
