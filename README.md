@@ -64,7 +64,7 @@ Realizar ina impresora 3D que cumpla con todos los criterios siguientes:
 ## Características por decidir en el diseño
 
 - Electrónica
-    - BTT Octopus
+    -  [BTT Octopus](/Placa madre/)
         - Placa de 128 bits destinada a trabajos de alta demanda
     - o	Pantalla TFT BTT
         - Pantalla TFT
