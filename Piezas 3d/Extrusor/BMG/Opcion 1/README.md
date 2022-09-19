@@ -1,1 +1,1 @@
-[![Esquema.png](https://gitlab.com/AlessandroKlein/impresora-3d-cube/-/raw/V1.2/Piezas%203d/Extrusor/BMG/Opcion%201/Esquema.png)]
+<div align="middle"><img src="/Piezas%203d/Extrusor/BMG/Opcion%201/Esquema.png"></div>

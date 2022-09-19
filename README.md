@@ -85,5 +85,5 @@ Realizar ina impresora 3D que cumpla con todos los criterios siguientes:
 
 ## Caracteristicas de las impresoras 3D
 
-[![IMPRESORAS-3-D.png](https://gitlab.com/AlessandroKlein/impresora-3d-cube/-/raw/main/Imagenes/IMPRESORAS_3D.png)]
+<div align="middle"><img src="/Imagenes/IMPRESORAS_3D.png"></div>
 
