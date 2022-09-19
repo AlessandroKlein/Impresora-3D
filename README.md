@@ -17,19 +17,19 @@ Chasis en aluminio de 5mm para el eje X e Y. Y para el eje Z aluminio de 3mm (Pa
 
 __Dimensiones de impresión útiles:__
 
-Eje X – 310mm
+Eje X – 350mm
 
-Eje Y – 310mm
+Eje Y – 350mm
 
-Eje Z – 400mm (Se puede expandir asta 500mm)
+Eje Z – 410mm (Se puede expandir asta 500mm)
 
 __Dimensiones exteriores:__
 
-Alto - 700mm
+Alto - 620mm
 
-Ancho - 580mm
+Ancho - 540mm
 
-Profundidad - 580mm
+Profundidad - 560mm
 
 ## Objetivos
 1.	Desarrollo y montaje de la impresora
