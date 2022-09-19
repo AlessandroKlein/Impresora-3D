@@ -19,4 +19,4 @@
 <div align="middle"><img src="/Piezas%203d/Movimiento%20XY/Imagenes/10mm-x_gantry_right_top_v1.png"></div>
 <div align="middle"><img src="/Piezas%203d/Movimiento%20XY/Imagenes/gantry-left.jpg"></div>
 <div align="middle"><img src="/Piezas%203d/Movimiento%20XY/Imagenes/left-motor-mount.jpg"></div>
-<div align="middle"><img src="/Imagenes/tensioner-left.jpg"></div>
+<div align="middle"><img src="/Movimiento%20XY/Imagenes/tensioner-left.jpg"></div>
