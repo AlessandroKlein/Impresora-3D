@@ -92,7 +92,7 @@ Realizar ina impresora 3D que cumpla con todos los criterios siguientes:
 
 # Materiales
 
-## [Listado Materiales](https://github.com/AlessandroKlein/Impresora-3D/wiki/Materiales)
+## [Listado de Materiales](https://github.com/AlessandroKlein/Impresora-3D/wiki/Materiales)
 
 ***
 
