@@ -4,6 +4,8 @@
 //## [Ver presentacion del proyecto](https://impresora3d-akv.my.canva.site/)
 
 
+
+
 # Impresora 3D Cube
 
 ##  Introducción
@@ -88,24 +90,9 @@ Realizar ina impresora 3D que cumpla con todos los criterios siguientes:
     
 ***
 
-## Materiales
-### Estructura
-    * Perfiles 2040
-        - 4 de 510mm
-        - 2 de 515mm
-    * Perfiles 2020
-        - 4 de 500mm
-        - 2 de 560mm
-        - 1 de 570mm
-### Extrusor
-    - Extrusor BMG y V6
-### Placa madre
-    - BTT Octopus Pro V1.0
-### Pantalla
-    - BTT TFT "Tft35 V3.0"
-### Filamento   (Calculo mios con pruevas incluidas)
-    - 3Kg de PETG 
-    - 1Kg de ABS
+# Materiales
+
+## [Listado de Materiales](https://github.com/AlessandroKlein/Impresora-3D/wiki/Materiales)
 
 ***
 
