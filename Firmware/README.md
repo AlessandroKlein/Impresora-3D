@@ -1,6 +1,6 @@
 # RepRapFirmware
-  - Firmware acutal 
-  - En fase de pruevas
+  - Firmware actual 
+  - En fase de pruebas
   
 
 ***
