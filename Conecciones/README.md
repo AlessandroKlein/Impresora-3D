@@ -2,6 +2,12 @@ https://www.mecatronix.com.ar/productos/mgn12c/
 
 https://listado.mercadolibre.com.ar/computacion/impresion/_CustId_75408812#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D3%26applied_value_id%3DMLA2141%26applied_value_name%3DImpresi%C3%B3n%26applied_value_order%3D2%26applied_value_results%3D206%26is_custom%3Dfalse
 
+https://articulo.mercadolibre.com.ar/MLA-1161211447-guia-lineal-mgn12-mm-para-patines-mgn12-x1000mm-_JM#position=11&search_layout=stack&type=item&tracking_id=18905968-5018-456c-afea-79c6fde35381
+
+https://articulo.mercadolibre.com.ar/MLA-1106402518-patin-12mm-bloques-de-rodamiento-mgn12h-largos-_JM#position=21&search_layout=stack&type=item&tracking_id=5260c4fd-dcd6-4c7d-a9c5-af02109548c6
+
+https://articulo.mercadolibre.com.ar/MLA-1106364637-patin-12mm-bloques-de-rodamiento-mgn12c-_JM#position=33&search_layout=stack&type=item&tracking_id=5260c4fd-dcd6-4c7d-a9c5-af02109548c6
+
 
 ¡ Admite firmware Reprap y Klipper !
 
