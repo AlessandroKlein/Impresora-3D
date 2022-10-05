@@ -1,5 +1,6 @@
 https://www.mecatronix.com.ar/productos/mgn12c/
 
+https://listado.mercadolibre.com.ar/computacion/impresion/_CustId_75408812#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D3%26applied_value_id%3DMLA2141%26applied_value_name%3DImpresi%C3%B3n%26applied_value_order%3D2%26applied_value_results%3D206%26is_custom%3Dfalse
 
 
 ¡ Admite firmware Reprap y Klipper !
