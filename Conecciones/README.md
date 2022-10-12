@@ -1,65 +1,7 @@
-https://www.mecatronix.com.ar/productos/mgn12c/
+A tener en cuenta a la hora de imprimir.
 
-https://listado.mercadolibre.com.ar/computacion/impresion/_CustId_75408812#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D3%26applied_value_id%3DMLA2141%26applied_value_name%3DImpresi%C3%B3n%26applied_value_order%3D2%26applied_value_results%3D206%26is_custom%3Dfalse
+Imprimir con 4 capas de paredes, y 4 capas de base y tapa
 
-https://articulo.mercadolibre.com.ar/MLA-1161211447-guia-lineal-mgn12-mm-para-patines-mgn12-x1000mm-_JM#position=11&search_layout=stack&type=item&tracking_id=18905968-5018-456c-afea-79c6fde35381
+Imprimir todas las piezas en ABS o Nylon
 
-https://articulo.mercadolibre.com.ar/MLA-1106402518-patin-12mm-bloques-de-rodamiento-mgn12h-largos-_JM#position=21&search_layout=stack&type=item&tracking_id=5260c4fd-dcd6-4c7d-a9c5-af02109548c6
-
-https://articulo.mercadolibre.com.ar/MLA-1106364637-patin-12mm-bloques-de-rodamiento-mgn12c-_JM#position=33&search_layout=stack&type=item&tracking_id=5260c4fd-dcd6-4c7d-a9c5-af02109548c6
-
-
-¡ Admite firmware Reprap y Klipper !
-
-Formador de entrada - Cortador
-
-Impresión súper rápida : 9000 Acc, 500 mm/s - KLIPPER FW.
-
-Sistema de enfriamiento eficiente
-
-SuperSlicer perfil completo + perfil de corte Simplify3D
-
-Depurador de aire Hepa/Carbon
-
-Marco frontal abierto de aluminio rígido
-
-Opción para extrusión dual
-
-***
-#Caracteristicas
-Tensor de correas delanteras
-
-Nivelación automática de malla
-
-Luz LED interna
-
-Marco de juntas ciegas - ¡Montaje rápido!
-
-Muchos remixes y actualizaciones de la comunidad 
-
-Rieles lineales MGN12H para alta precisión
-
-¡Configuraciones completas de firmware incluidas!
-
-Motores paso a paso X/Y de alta resolución
-
-Cama: 300 X 300, Altura: 365/465/565mm
-
-DuetWifi / Duet 3 / Physetc spider v2.2 (cortador)
-
-Admite controladores HV5160 de alto voltaje de 48 V 
-
-Interfaz web completa a través de teléfono inteligente/tableta/escritorio
-
-Electrónica en la parte trasera
-
-Diseño limpio y elegante
-
-Piezas mecanizadas en aluminio CNC -  Kit de metal
-
-el archivo cad de diseño de código abierto está disponible
-
-Triple Z : nivelación real de la cama.
-
-Enorme comunidad
-***
+Imprimir con un relleno mínimo del 50%
