@@ -17,8 +17,10 @@
 <div align="middle"><img src="/Piezas%203d/Movimiento%20XY/Imagenes/10mm-x_gantry_right_bottom_mgn12c_v1.png"></div>
 <div align="middle"><img src="/Piezas%203d/Movimiento%20XY/Imagenes/10mm-x_gantry_right_bottom_mgn12h_v1.png"></div>
 <div align="middle"><img src="/Piezas%203d/Movimiento%20XY/Imagenes/10mm-x_gantry_right_top_v1.png"></div>
+
 ***
-## Montaje 
+
+# Montaje 
 
 <div align="middle"><img src="/Piezas%203d/Movimiento%20XY/Imagenes/gantry-left.jpg"></div>
 <div align="middle"><img src="/Piezas%203d/Movimiento%20XY/Imagenes/left-motor-mount.jpg"></div>
