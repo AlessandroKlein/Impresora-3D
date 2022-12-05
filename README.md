@@ -31,7 +31,7 @@ Eje Z – 410mm (Se puede expandir asta 500mm)
 
 __Dimensiones exteriores:__
 
-Alto - 620mm
+Alto - 700mm
 
 Ancho - 540mm
 
