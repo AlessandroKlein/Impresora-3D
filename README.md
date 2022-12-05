@@ -8,7 +8,7 @@
 
 Tabla para ver las caracteristicas necesarias para imprimir cada tipo de material.
 
-
+## [Videos](https://github.com/AlessandroKlein/Impresora-3D/wiki/Videos)
 
 # Impresora 3D Cube
 
