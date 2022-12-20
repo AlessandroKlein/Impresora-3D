@@ -8,7 +8,7 @@
 
 Tabla para ver las caracteristicas necesarias para imprimir cada tipo de material.
 
-
+## [Videos](https://github.com/AlessandroKlein/Impresora-3D/wiki/Videos)
 
 # Impresora 3D Cube
 
@@ -31,7 +31,7 @@ Eje Z – 410mm (Se puede expandir asta 500mm)
 
 __Dimensiones exteriores:__
 
-Alto - 620mm
+Alto - 700mm
 
 Ancho - 540mm
 
@@ -60,12 +60,12 @@ Realizar ina impresora 3D que cumpla con todos los criterios siguientes:
 - Evitar el uso de perfiles estructurales 2020
 - Electrónica libre (No se utiliza una placa especifica)
 - Motores Nema17
-- Guiás de precisión mecanizadas MGN12 (Para eje X e Y. Eje Z Se puede utilizar gias lineales)
+- Guías de precisión mecanizadas MGN12 (Para eje X e Y. Eje Z Se puede utilizar gias lineales)
 - Sensor de autonivel
 - Fleje flexible para la correcta extracción de la bandeja de impresión
 - Fuente de alimentación 24V 20A
 - Base caliente a 24V (Temperatura máxima 110º-120º)
-- Pueta de acrilico
+- Puerta  de acrilico
 
 ## Características por decidir en el diseño
 
