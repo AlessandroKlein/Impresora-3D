@@ -1,8 +1,3 @@
-## [Ver presentacion del proyecto](https://ioticos.cf/)
-
-
-//## [Ver presentacion del proyecto](https://impresora3d-akv.my.canva.site/)
-
 
 ## [Tabla de materiales](https://help.prusa3d.com/es/materials)
 
