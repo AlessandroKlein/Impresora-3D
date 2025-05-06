@@ -19,8 +19,6 @@ Un **15 % de infill** es suficiente para la mayoría de las piezas, salvo compon
 
 ---
 
----
-
 ## 🔢 Cantidades y Componentes
 
 | Nº  | Cantidad | Componente               | ¿Imprimible? | Crítico (100 % infill) |
