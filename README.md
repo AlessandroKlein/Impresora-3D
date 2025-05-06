@@ -74,11 +74,11 @@ Para precisión, inserta el PTFE montado y córtalo a ras de la transición entr
 | 7   | 1        | `drive_bmg`              | ✅           | ✅                     |
 | 8   | 1        | `drive_lgx_lite`         | ✅           | ✅                     |
 | 9   | 1        | `drive_orbiter_2.0_fi`   | ✅           | ✅                     |
-| 10  | 1        | `bl_touch_mount`         | ✅           | ❌                     |
-| 11  | 1        | `bl_touch_mount_volcano` | ✅           | ❌                     |
+| 10  | 1        | `bl_touch_mount`         | ✅           | ✅                     |
+| 11  | 1        | `bl_touch_mount_volcano` | ✅           | ✅                     |
 | 12  | 1        | `cable_guide`            | ✅           | ❌                     |
-| 13  | 1        | `cable_guide_mount_fi`   | ✅           | ❌                     |
-| 14  | 1        | `bottom_trihorns_fi`     | ✅           | ❌                     |
+| 13  | 1        | `cable_guide_mount_fi`   | ✅           | ✅                     |
+| 14  | 1        | `bottom_trihorns_fi`     | ✅           | ✅                     |
 | 15  | 1        | `shroud_tank`            | ✅           | ❌                     |
 | 16  | 1        | `top_endstop_mgn12c_fi`  | ✅           | ✅                     |
 
