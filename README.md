@@ -5,12 +5,6 @@
 ────────────────────────────────────────────────────────────────────────────────
 -->
 
-## 📦 Piezas
-
-> **Infill:** 100 % (relleno completo)
-
----
-
 ## 🔧 Ajustes de Impresión
 
 EVA está diseñada para funcionar con boquillas de hasta **0.5 mm**, activando la detección de paredes finas en tu slicer si es necesario.  
