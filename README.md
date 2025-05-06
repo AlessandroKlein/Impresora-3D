@@ -15,25 +15,25 @@ Respecto al relleno, un **15 % de infill** es suficiente para la mayoría de las
 
 ## 🔢 Cantidades y Componentes
 
-| Nº  | Cantidad | Componente               | ¿Imprimible? | Crítico (100 % infill) |
-|:---:|:--------:|:-------------------------|:------------:|:----------------------:|
-| 1   | 1        | `back_corexy`            | ✅           | ✅                     |
-| 2   | 1        | `front_universal_fi`     | ✅           | ✅                     |
-| 3   | 2        | `core_xy_belt_grabber`   | ✅           | ✅                     |
-| 4   | 2        | `face_belt_grabber`      | ✅           | ✅                     |
-| 5   | 1        | `hotend_mosquito_fi`     | ✅           | ✅                     |
-| 6   | 1        | `hotend_revo_voron_fi`   | ✅           | ✅                     |
-| 6   | 1        | `hotend_rapido_fi`       | ✅           | ✅                     |
-| 7   | 1        | `drive_bmg`              | ✅           | ❌                     |
-| 8   | 1        | `drive_lgx_lite`         | ✅           | ✅                     |
-| 9   | 1        | `drive_orbiter_2.0_fi`   | ✅           | ❌                     |
-| 10  | 1        | `bl_touch_mount`         | ✅           | ❌                     |
-| 11  | 1        | `bl_touch_mount_volcano` | ✅           | ❌                     |
-| 12  | 1        | `cable_guide`            | ✅           | ❌                     |
-| 13  | 1        | `cable_guide_mount_fi`   | ✅           | ✅                     |
-| 14  | 1        | `bottom_trihorns_fi`     | ✅           | ✅                     |
-| 15  | 1        | `shroud_tank`            | ✅           | ❌                     |
-| 16  | 1        | `top_endstop_mgn12c_fi`  | ✅           | ✅                     |
+| Nº  | Cantidad | Componente               | ¿Imprimible? | Crítico (100 % infill) | Crítico (50 % infill)  | Crítico (25 % infill)  |
+|:---:|:--------:|:-------------------------|:------------:|:----------------------:|:----------------------:|:----------------------:|
+| 1   | 1        | `back_corexy`            | ✅           | ✅                    |                        |                        |
+| 2   | 1        | `front_universal_fi`     | ✅           | ✅                    |                        |                        |
+| 3   | 2        | `core_xy_belt_grabber`   | ✅           | ✅                    |                        |                        |
+| 4   | 2        | `face_belt_grabber`      | ✅           | ✅                    |                        |                        |
+| 5   | 1        | `hotend_mosquito_fi`     | ✅           | ✅                    |                        |                        |
+| 6   | 1        | `hotend_revo_voron_fi`   | ✅           | ✅                    |                        |                        |
+| 6   | 1        | `hotend_rapido_fi`       | ✅           | ✅                    |                        |                        |
+| 7   | 1        | `drive_bmg`              | ✅           | ❌                    | ✅                     |                        |
+| 8   | 1        | `drive_lgx_lite`         | ✅           | ✅                    | ✅                     |                        |
+| 9   | 1        | `drive_orbiter_2.0_fi`   | ✅           | ❌                    | ✅                     |                        |
+| 10  | 1        | `bl_touch_mount`         | ✅           | ❌                    | ✅                     |                        |
+| 11  | 1        | `bl_touch_mount_volcano` | ✅           | ❌                    | ✅                     |                        |
+| 12  | 1        | `cable_guide`            | ✅           | ❌                    |                        | ✅                     |
+| 13  | 1        | `cable_guide_mount_fi`   | ✅           | ✅                    |                        |                        |
+| 14  | 1        | `bottom_trihorns_fi`     | ✅           | ✅                    |                        |                        |
+| 15  | 1        | `shroud_tank`            | ✅           | ❌                    |                        | ✅                     |
+| 16  | 1        | `top_endstop_mgn12c_fi`  | ✅           | ✅                    |                        |                        |
 
 ---
 
