@@ -50,7 +50,7 @@ Un **15 % de infill** es suficiente para la mayoría de las piezas, salvo compon
   2. Carga en tu slicer (Cura, PrusaSlicer…).  
   3. Ajusta orientaciones y escala según tus necesidades.  
   4. Configura **infill** e **perímetros** según las recomendaciones anteriores.  
-- Si tus piezas requieren ensamblaje, consulta la sección [🔧 Montaje](https://main.eva-3d.page/heat_insert).
+- Si tus piezas requieren ensamblaje, consulta la sección <a href="https://main.eva-3d.page/heat_insert" target="_blank">🔧 Montaje</a>.
 
 ---
 
