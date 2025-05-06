@@ -19,46 +19,6 @@ Un **15 % de infill** es suficiente para la mayoría de las piezas, salvo compon
 
 ---
 
-## 🖨️ Compatibilidad con Impresoras
-
-EVA 3 mantiene compatibilidad con muchas versiones anteriores de EVA 2, aunque puede requerir ajustes específicos según tu modelo:
-
-- **V-Core 3**: es necesario un bloque de fin de carrera X más alto y posiblemente correas más largas si las cortaste al tamaño justo para el carro.  
-- **V-Minion**: el homing sin sensor debería funcionar, de lo contrario ajusta el bloque del motor X del VM.  
-- **V-Core Pro ≥ 1.2**: todavía en desarrollo, pero el puerto será similar al de VC3.  
-- **V-Cast**: pendiente de demanda; en caso de port necesitará trabajo adicional.
-
----
-
-## 🧩 Componentes y Función
-
-EVA se compone de cuatro grupos principales de piezas, cada uno con interfaces modulares:
-
-### 1. Core 
-- **Top**: interfaz MGN12 para el resto de EVA.  
-- **Front**: interfaz universal para montajes de hotend.  
-- **Bottom**: soporte con opción de conducto de ventilación.  
-- **Back**: variantes según sistema de movimiento (Cartesian, CoreXY…).
-
-### 2. Drive
-Montaje del extrusor que encaja sobre las piezas “Top” y “Front”.
-
-### 3. Hotend
-Soporte y conducto para ventilador, se conecta al “Front” y guía el filamento.
-
-### 4. Otros elementos  
-- **Cooling Inlet**: para tu ventilador de capa, se acopla al “Back”.  
-- **Cable Management**: guía y sujeción de cables en el carro.  
-- **Bed Probe**: monta el sensor de nivelación en el “Front”.
-
----
-
-## 📏 Longitudes de PTFE
-
-Cada combinación de drive + hotend requiere un trozo de tubo PTFE de longitud específica; se obtiene sumando los valores de la BOM de tu drive y tu hotend (no cortes en dos piezas).  
-**Ejemplo:** Nova = 39.65 mm hasta el “roof” del frontal; LGX = 20.8 mm → **60.45 mm** total (± 0.2 mm en la práctica).  
-Para precisión, inserta el PTFE montado y córtalo a ras de la transición entre drive y hotend, ajustando cualquier exceso.
-
 ---
 
 ## 🔢 Cantidades y Componentes
@@ -92,7 +52,40 @@ Para precisión, inserta el PTFE montado y córtalo a ras de la transición entr
   2. Carga en tu slicer (Cura, PrusaSlicer…).  
   3. Ajusta orientaciones y escala según tus necesidades.  
   4. Configura **infill** e **perímetros** según las recomendaciones anteriores.  
-- Si tus piezas requieren ensamblaje, consulta la sección [🔧 Montaje (próximamente)](#).
+- Si tus piezas requieren ensamblaje, consulta la sección [🔧 Montaje](https://main.eva-3d.page/heat_insert).
+
+---
+
+## 🧩 Componentes y Función
+
+EVA se compone de cuatro grupos principales de piezas, cada uno con interfaces modulares:
+
+### 1. Core 
+- **Top**: interfaz MGN12 para el resto de EVA.  
+- **Front**: interfaz universal para montajes de hotend.  
+- **Bottom**: soporte con opción de conducto de ventilación.  
+- **Back**: variantes según sistema de movimiento (Cartesian, CoreXY…).
+
+### 2. Drive
+Montaje del extrusor que encaja sobre las piezas “Top” y “Front”.
+
+### 3. Hotend
+Soporte y conducto para ventilador, se conecta al “Front” y guía el filamento.
+
+### 4. Otros elementos  
+- **Cooling Inlet**: para tu ventilador de capa, se acopla al “Back”.  
+- **Cable Management**: guía y sujeción de cables en el carro.  
+- **Bed Probe**: monta el sensor de nivelación en el “Front”.
+
+---
+
+## 📏 Longitudes de PTFE
+
+Cada combinación de drive + hotend requiere un trozo de tubo PTFE de longitud específica; se obtiene sumando los valores de la BOM de tu drive y tu hotend (no cortes en dos piezas).  
+**Ejemplo:** Nova = 39.65 mm hasta el “roof” del frontal; LGX = 20.8 mm → **60.45 mm** total (± 0.2 mm en la práctica).  
+Para precisión, inserta el PTFE montado y córtalo a ras de la transición entre drive y hotend, ajustando cualquier exceso.
+
+---
 
 > _¿Alguna discrepancia en nombres, cantidades o propiedades? Por favor abre un _issue_ o envía un _pull request_._
 
