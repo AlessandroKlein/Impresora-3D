@@ -7,9 +7,9 @@
 
 ## 🔧 Ajustes de Impresión
 
-EVA está diseñada para funcionar con boquillas de hasta **0.5 mm**, activando la detección de paredes finas en tu slicer si es necesario.  
-Recomienda perímetros de **∼1 mm** (p.ej. 2 perímetros de 0.55 mm o 3 de 0.45 mm) para garantizar rigidez estructural.  
-Un **15 % de infill** es suficiente para la mayoría de las piezas, salvo componentes críticos donde prefieras 100 %.
+EVA está diseñada para imprimirse con boquillas de hasta **0.5 mm**, aunque es posible que debas habilitar la detección de paredes delgadas en tu laminador al imprimir con una boquilla de **0.5 mm**.
+Se recomienda perímetros de **∼1 mm** (p.ej. 2 perímetros de 0.55 mm o 3 de 0.45 mm) para garantizar rigidez estructural.  
+Respecto al relleno, un **15 % de infill** es suficiente para la mayoría de las piezas, salvo componentes críticos donde prefieras 100 %.
 
 ---
 
