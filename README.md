@@ -5,7 +5,7 @@
 | 3    | 2        | core_xy_belt_grabber    | yes       |
 | 4    | 2        | face_belt_grabber       | yes       |
 | 5    | 1        | hotend_mosquito_fi      | yes       |
-| 6    | 1        | hotend_nova_fi          | yes       |
+| 6    | 1        | hotend_revo_voron_fi    | yes       |
 | 7    | 1        | drive_bmg               | yes       |
 | 8    | 1        | drive_lgx_lite          | yes       |
 | 9    | 1        | drive_orbiter_2.0_fi    | yes       |
