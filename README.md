@@ -23,19 +23,19 @@ Respecto al relleno, un **15 % de infill** es suficiente para la mayoría de las
 | 4   | 2        | `face_belt_grabber`      | ✅           | ✅                    |                        |                        |
 | 5   | 1        | `hotend_mosquito_fi`     | ✅           | ✅                    | ❌                     | ❌                    |
 | 6   | 1        | `hotend_revo_voron_fi`   | ✅           | ✅                    | ❌                     | ❌                    |
-| 6   | 1        | `hotend_rapido_fi`       | ✅           | ✅                    | ❌                     | ❌                    |
-| 7   | 1        | `drive_bmg`              | ✅           | ❌                    | ✅                     |                        |
-| 8   | 1        | `drive_lgx_lite`         | ✅           | ✅                    | ✅                     |                        |
-| 9   | 1        | `drive_orbiter_2.0_fi`   | ✅           | ❌                    | ✅                     |                        |
-| 10  | 1        | `bl_touch_mount`         | ✅           | ❌                    | ✅                     |                        |
-| 11  | 1        | `bl_touch_mount_volcano` | ✅           | ❌                    | ✅                     |                        |
-| 12  | 1        | `bottom_trihorns_fi`     | ✅           | ✅                    | ❌                    | ❌                     |
-| 13  | 1        | `shroud_tank`            | ✅           | ❌                    |                        | ✅                     |
-| 14  | 1        | `top_endstop_mgn12c_fi`  | ✅           | ✅                    | ❌                    | ❌                     |
-| 15  | 1        | `EBB42 Mount - Eva 3.x - LGX Lite - PW Inside - Heat Insert - v5` | ✅           | ✅                    | ✅                       |                     |
-| 16  | 1        | `EVA-3-Inlet-5015-Parallel-Arm-Heat-Set`            | ✅           | ❌                    |                        | ✅                     |
-| 17  | 1        | `EVA-3-Inlet-5015-Parallel-Arm-Hex-Nut`            | ✅           | ❌                    |                        | ✅                     |
-| 18  | 1        | `EVA-3-Inlet-5015-Parallel-Arm-Screw`            | ✅           | ❌                    |                        | ✅                     |
+| 7   | 1        | `hotend_rapido_fi`       | ✅           | ✅                    | ❌                     | ❌                    |
+| 8   | 1        | `drive_bmg`              | ✅           | ❌                    | ✅                     |                        |
+| 9   | 1        | `drive_lgx_lite`         | ✅           | ✅                    | ✅                     |                        |
+| 10   | 1        | `drive_orbiter_2.0_fi`   | ✅           | ❌                    | ✅                     |                        |
+| 11  | 1        | `bl_touch_mount`         | ✅           | ❌                    | ✅                     |                        |
+| 12  | 1        | `bl_touch_mount_volcano` | ✅           | ❌                    | ✅                     |                        |
+| 13  | 1        | `bottom_trihorns_fi`     | ✅           | ✅                    | ❌                    | ❌                     |
+| 14  | 1        | `shroud_tank`            | ✅           | ❌                    |                        | ✅                     |
+| 15  | 1        | `top_endstop_mgn12c_fi`  | ✅           | ✅                    | ❌                    | ❌                     |
+| 16  | 1        | `EBB42 Mount - Eva 3.x - LGX Lite - PW Inside - Heat Insert - v5` | ✅           | ✅                    | ✅                       |                     |
+| 17  | 1        | `EVA-3-Inlet-5015-Parallel-Arm-Heat-Set`            | ✅           | ❌                    |                        | ✅                     |
+| 18  | 1        | `EVA-3-Inlet-5015-Parallel-Arm-Hex-Nut`            | ✅           | ❌                    |                        | ✅                     |
+| 19  | 1        | `EVA-3-Inlet-5015-Parallel-Arm-Screw`            | ✅           | ❌                    |                        | ✅                     |
 
 ---
 
