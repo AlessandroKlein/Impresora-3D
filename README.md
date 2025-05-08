@@ -29,12 +29,13 @@ Respecto al relleno, un **15 % de infill** es suficiente para la mayoría de las
 | 9   | 1        | `drive_orbiter_2.0_fi`   | ✅           | ❌                    | ✅                     |                        |
 | 10  | 1        | `bl_touch_mount`         | ✅           | ❌                    | ✅                     |                        |
 | 11  | 1        | `bl_touch_mount_volcano` | ✅           | ❌                    | ✅                     |                        |
-| 12  | 1        | `cable_guide`            | ✅           | ❌                    |                        | ✅                     |
-| 13  | 1        | `cable_guide_mount_fi`   | ✅           | ✅                    |                        | ✅                     |
-| 14  | 1        | `bottom_trihorns_fi`     | ✅           | ✅                    | ❌                    | ❌                     |
-| 15  | 1        | `shroud_tank`            | ✅           | ❌                    |                        | ✅                     |
-| 16  | 1        | `top_endstop_mgn12c_fi`  | ✅           | ✅                    | ❌                    | ❌                     |
-| 17  | 1        | `EBB42 Mount - Eva 3.x - LGX Lite - PW Inside - Heat Insert - v5` | ✅           | ✅                    | ✅                       |                     |
+| 12  | 1        | `bottom_trihorns_fi`     | ✅           | ✅                    | ❌                    | ❌                     |
+| 13  | 1        | `shroud_tank`            | ✅           | ❌                    |                        | ✅                     |
+| 14  | 1        | `top_endstop_mgn12c_fi`  | ✅           | ✅                    | ❌                    | ❌                     |
+| 15  | 1        | `EBB42 Mount - Eva 3.x - LGX Lite - PW Inside - Heat Insert - v5` | ✅           | ✅                    | ✅                       |                     |
+| 16  | 1        | `EVA-3-Inlet-5015-Parallel-Arm-Heat-Set`            | ✅           | ❌                    |                        | ✅                     |
+| 17  | 1        | `EVA-3-Inlet-5015-Parallel-Arm-Hex-Nut`            | ✅           | ❌                    |                        | ✅                     |
+| 18  | 1        | `EVA-3-Inlet-5015-Parallel-Arm-Screw`            | ✅           | ❌                    |                        | ✅                     |
 
 ---
 
