@@ -34,6 +34,7 @@ Respecto al relleno, un **15 % de infill** es suficiente para la mayoría de las
 | 14  | 1        | `bottom_trihorns_fi`     | ✅           | ✅                    | ❌                    | ❌                     |
 | 15  | 1        | `shroud_tank`            | ✅           | ❌                    |                        | ✅                     |
 | 16  | 1        | `top_endstop_mgn12c_fi`  | ✅           | ✅                    | ❌                    | ❌                     |
+| 17  | 1        | `ebb42-mount-eva-3x-lgx-lite-pw-inside-self-tapping-v5` | ✅           | ✅                    | ✅                       |                     |
 
 ---
 
